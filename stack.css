@@ -1,0 +1,22 @@
+.logo{
+  height: 50px;
+  width: 200px;
+}
+
+.navbar-brand{
+  padding: 0;
+}
+
+#bs-example-navbar-collapse-1{
+  background-color: black;
+}
+
+.inbox{
+  width: 10%;
+}
+
+.form-control{
+  position: fixed;
+  right: 20px;
+  top: 9px;
+}
